@@ -3,5 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+link: (https://limaof.github.io)
 ---
-[**HOME**](https://limaof.github.io) [**BLOG**](https://limaof.github.io/blog/) 
+[**HOME**](https://limaof.github.io)
