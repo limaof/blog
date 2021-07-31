@@ -3,6 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+A HQ limão é uma Hq feita em software livre.
+
+Para entender como publicar a sua hq autoral de forma livre, leia os comentários abaixo:
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
