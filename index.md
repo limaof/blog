@@ -4,18 +4,4 @@
 
 layout: home
 ---
-<nav id="menu-h">
-        <ul>
-            <li>
-                <a href="https://limaof.github.io">
-                        <b>Home</b>
-                </a>
-            </li>
-
-            <li><a href="https://limaof.github.io/blog/">
-                    <b>Blog</b>
-                    </a>
-            </li>
-           
-        </ul>
-    </nav>
+[**HOME**](https://limaof.github.io) [**BLOG**](https://limaof.github.io/blog/) 
